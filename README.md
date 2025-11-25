@@ -2,4 +2,6 @@ test-3
 another one
 
 
-nothing here, commit 2 let see now though
+hello, this is my contribution.
+
+now this should only contain additions as net effect of all 3 commits
